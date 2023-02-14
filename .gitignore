@@ -1,0 +1,18 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+
+# TypeScript configuration
+/tsconfig.json
+/tsconfig.build.json
+
+# IDE configuration
+.vscode/
+
+# Environment variables
+.env
+
+# Log files
+*.log
