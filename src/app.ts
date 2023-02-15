@@ -5,8 +5,7 @@ import axios from "axios";
 import { downloadFile, saveFormDataForSubmission } from "./utils";
 
 const bot: Telegraf<Context<Update>> = new Telegraf(
-	(process.env.BOT_TOKEN as string) ||
-		"6106449025:AAFHdxhi_9BnJ9StR8RF1qSjERz2K2UteV4"
+	(process.env.BOT_TOKEN as string) || ""
 );
 
 bot.start((ctx) => ctx.reply(welcomeText));
