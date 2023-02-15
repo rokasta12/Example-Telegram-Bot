@@ -1,13 +1,12 @@
-# TLI-Telegram-Bot
-
+# Example-Telegram-Bot
 
 ## Setup
 
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/rokasta12/TLI-Telegram-Bot.git
-cd TLI-Telegram-Bot
+git clone https://github.com/rokasta12/Example-Telegram-Bot.git
+cd Example-Telegram-Bot
 ```
 
 ```bash
